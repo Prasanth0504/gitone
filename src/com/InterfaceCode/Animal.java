@@ -12,7 +12,8 @@ public class Animal implements Birds{
 
 	@Override
 	public void sleep() {
-		System.out.println("Bird sleeping");
+		System.out.println("Bird flying");
+	
 		
 	}
 	
